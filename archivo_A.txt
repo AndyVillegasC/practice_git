@@ -3,6 +3,6 @@ cambios a la cabecera final para ir probando
 se finalizaron los cambios
 
 
-hola este es el archivo A
+hola este es el archivo A CABECERA
 
 y tambien un footer en este archivo
