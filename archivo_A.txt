@@ -1,3 +1,8 @@
+se creo una cabecera para prueba
+cambios a la cabecera final para ir probando
+se finalizaron los cambios
+
+
 hola este es el archivo A
 
 y tambien un footer en este archivo
