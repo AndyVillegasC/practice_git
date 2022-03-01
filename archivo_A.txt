@@ -6,3 +6,5 @@ se finalizaron los cambios
 hola este es el archivo A MAIN
 
 y tambien un footer en este archivo
+
+esta es una nueva linea
