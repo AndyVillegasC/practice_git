@@ -1,1 +1,3 @@
-hola este es el archivo A
+hola este es el archivo A, se pudo agregar nuevas cosas en este parrafo
+
+y tambien un footer en este archivo
