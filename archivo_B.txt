@@ -3,4 +3,4 @@ hola este ees el archivo hola este ees el archivo B
 
 
 
-le agregue un nuevo pie de pagina al archivo
+le agregue un nuevo pie de pagina al archivo editado
