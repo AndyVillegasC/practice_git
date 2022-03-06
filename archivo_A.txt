@@ -12,3 +12,5 @@ esta es una nueva linea
 
 se agrega una linea de prueba ahora con SSH
 se agrega esta linea
+
+hola esto es un avance en footer
