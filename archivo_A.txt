@@ -10,3 +10,5 @@ y tambien un footer en este archivo
 esta es una nueva linea
 
 se agrega una linea de prueba ahora con SSH
+
+hola esto es un avance en footer
